@@ -8,9 +8,9 @@ Para subir una SC al repositorio se deberán incluir los siguientes documentos:
 - Archivo .md, que contendrá:
   - breve descripción de la SC.
   - tipo y función de sus entradas y salidas.
-Ambos archivos deberán tener el mismo nombre, el asociado a la SC. Si el nombre tiene varias palabras estas se separarán por guines bajos. Además, no se usarán caracteres especiales ni acentos en los nombres de archivos.
+Ambos archivos deberán tener el mismo nombre, el asociado a la SC. Si el nombre tiene varias palabras estas se separarán por guiones bajos, y solo estará en mayúsculas la primera letra del archivo. Además, no se usarán caracteres especiales ni acentos en los nombres de archivos.
 
-Ejemplo: Para una SC "Martillo Neumático", se deberán subir los archivos "Martillo_Neumatico.rslib" y "Martillo_Neumatico.md".
+Ejemplo: Para una SC "Martillo Neumático", se deberán subir los archivos "Martillo_neumatico.rslib" y "Martillo_neumatico.md".
 
 Para subir los archivos al repositorio el proceso es el siguiente:
 1. Haz un fork de este repositorio.
