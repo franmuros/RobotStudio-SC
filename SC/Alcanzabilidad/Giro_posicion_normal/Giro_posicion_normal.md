@@ -1,0 +1,3 @@
+Para la preparación del sushi con la idea de que el robot pueda abarcar más espacio de trabajo y disposicionados los materiales para que no obstaculice el proceso, se apoya en una mesa giratoria. 
+Para el giro se prepara la componente necesaria para que empiece a rotar (rotator) una vez active la entrada digital ajustada para ello. De la misma manera para la recogida de las bandejas como en la entrega de la preparación, se coloca un sensor de final de carrera que activa la entrada lógica preparada para que realice la visualización del giro apoyada de la componente positioner de acuerdo a la definición de la posición que toma en la estación.
+<img width="442" height="154" alt="image" src="https://github.com/user-attachments/assets/bfa20740-5ab5-4a7b-b07b-d945a139f79d" />
