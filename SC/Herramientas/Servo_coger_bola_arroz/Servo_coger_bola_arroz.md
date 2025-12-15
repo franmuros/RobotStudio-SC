@@ -1,0 +1,2 @@
+Necesario para simular de manera real la utilización de las herramientas preparadas, se definen una serie de mecanismos de posición en las pinzas incorporadas en los robots que participan en el servicio.
+Para que adopten la posición, una vez se activa la señal de entrada en el momento especifico de la secuencia, a partir de PoseMover toma la posición del mecanismo necesaria según el agarre definido, volviendo a su posición inicial una vez realizado el proceso, definiendo salidas digitales para tener control del mecanismo actual.
