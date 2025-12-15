@@ -1,0 +1,3 @@
+Para la cogida de las bandejas preparadas con el pescado es necesario apoyarse de dos componentes inteligentes compuestas.
+Una primera dedicada a conectar la cogida mediante la conexión de la pinza (parent) con la bandeja (child), que se ejecutará cuando se active la entrada lógica presentada. Esta será utilizada para la cogida de todas las herramientas dispuestas en la zona de uso.
+De manera común, con una entrada lógica que se active cuando se disponga a coger la tabla (parent) debiendo crear dos attacher, uno para cada pieza (child) acompañada de una puerta lógica para cuando se disponga a dejarla en su zona active dettacher.
