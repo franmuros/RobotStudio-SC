@@ -1,0 +1,1 @@
+Esta componente se encarga de colocar los trozos de pescado en las tabla habilitadas para ello. De manera común, con una entrada lógica que se active cuando se disponga a coger la tabla (parent) debiendo crear dos attacher, uno para cada pieza (child) acompañada de una puerta lógica para cuando se disponga a dejarla en su zona active dettacher.
