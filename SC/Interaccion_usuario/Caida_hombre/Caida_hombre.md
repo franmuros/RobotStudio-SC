@@ -1,0 +1,1 @@
+Se activa la entrada digital tirar hombre, y mediante las componentes Rotator y Linear Mover, llevamos al operario hasta traspasar la zona límite permitida para el personal, es decir, dentro del perímetro de parada de emergencia del robot. Cuando se han realizado todos los movimientos, se para la simulación mediante la componente Stop Simulation.
