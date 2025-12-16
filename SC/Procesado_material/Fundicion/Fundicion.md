@@ -1,1 +1,1 @@
-Cuando se activa la entrada “Activar_horno” la componente “Highlighter” ilumina el horno con un color rojo, que simula que se está calentando y se está produciendo la fundición del silicio en su interior.
+Cuando se activa la entrada “Activar_horno”, el SC de tipo Highlighter ilumina el horno con un color rojo, que simula que se está calentando y se está produciendo la fundición del silicio en su interior.
