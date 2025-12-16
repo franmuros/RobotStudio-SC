@@ -1,5 +1,5 @@
-Para el desarrollo de la preparación del sushi, es necesario el apoyo visual a partir de la combinación de componentes individuales como Show, Hide y puertas lógicas que permitan leer el momento de la secuencia.
+Para la preparación del sushi, es necesario el apoyo visual mediante la combinación de SCs individuales de tipo Show, Hide y puertas lógicas que permitan interpretar el momento de la secuencia.
 
 Cada una de las entradas corresponde a las distintas formas que toma cuando se coge, se deja sobre la herramienta de preparación y cuando con la espátula se apoya para coger la forma.
 
-De acuerdo a la necesidad de reponer durante el servicio, se preparan una serie de salidas digitales que permiten tener un conteo de lo utilizado para cuando sea necesario, empiece el proceso de reposición.
+De acuerdo con la necesidad de reponer durante el servicio, se prepara una serie de salidas digitales que permiten tener un conteo de lo utilizado para que, cuando sea necesario, empiece el proceso de reposición.
