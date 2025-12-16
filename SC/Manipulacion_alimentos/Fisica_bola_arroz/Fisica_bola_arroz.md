@@ -1,1 +1,1 @@
-Para aportar realismo a la simulación, cuando coge la bola de arroz y la deposita en la herramienta de moldeo, se utiliza la componente de physics control para darle un comportamiento real dinámico de como caería una vez se active la entrada lógica en el momento exacto del servicio.
+Para aportar realismo a la simulación, cuando coge la bola de arroz y la deposita en la herramienta de moldeo, se utiliza un SC de tipo Physics Control para darle un comportamiento dinámico real de caída una vez se active la entrada lógica en el momento exacto del servicio.
