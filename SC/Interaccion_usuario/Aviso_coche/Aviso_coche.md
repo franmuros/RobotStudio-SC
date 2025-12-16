@@ -1,1 +1,1 @@
-Para la zona de delivery, se fija un tiempo con intervalos durante la visualización, a partir de la componente Timer. Al cumplir muestra el coche y se mueve linealmente en la zona reservada hasta desaparecer cuando activa la salida digital preparada para tal fin.
+Para la zona de delivery, se fija un tiempo con intervalos durante la visualización, a partir del SC de tipo Timer. Al cumplirse el tiempo, muestra el coche y se mueve linealmente en la zona reservada hasta desaparecer cuando se activa la salida digital preparada para tal fin.
